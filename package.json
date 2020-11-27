@@ -1,0 +1,14 @@
+{
+  "name": "node-cnpj",
+  "version": "1.0.0",
+  "description": "web scraper to get information about brazilian enterprises with their CNPJ document",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^16.4.0",
+    "node-horseman": "^3.3.0",
+    "phantomjs": "^2.1.7"
+  }
+}
